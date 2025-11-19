@@ -5,7 +5,7 @@
 <h3 align="center"> Front-End Developer | Creative Coder | Tech Explorer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Omar+Ahmed;Front-End+Developer;React+Developer;Clean+Code+Enthusiast;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A600FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Omar+Ahmed;Front-End+Developer;React+Developer;Clean+Code+Enthusiast;Welcome+to+my+GitHub!">
 </p>
 
 ---
