@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://i.ibb.co/R4cpS6PB/Black-Modern-Personal-Linked-In-Banner.jpg" />
+<img src="https://github.com/ahmed-1430/ahmed-1430/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.jpg" />
 
 <h1 align="center"> Omar Ahmed </h1>
 <h3 align="center"> Front-End Developer | Creative Coder | Tech Explorer </h3>
