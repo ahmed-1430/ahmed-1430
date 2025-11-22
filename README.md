@@ -2,10 +2,10 @@
 <img src="https://github.com/ahmed-1430/ahmed-1430/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.jpg" />
 
 <h1 align="center"> Omar Ahmed </h1>
-<h3 align="center"> Front-End Developer | Creative Coder | Tech Explorer </h3>
+<h3 align="center"> Front-End Developer | MERN Stack Developer | Creative Coder | Tech Explorer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A600FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Omar+Ahmed;Front-End+Developer;React+Developer;Clean+Code+Enthusiast;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A600FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Omar+Ahmed;Front-End+Developer;Mern+Stack+Developer;React+Developer;Clean+Code+Enthusiast;Welcome+to+my+GitHub!">
 </p>
 
 ---
