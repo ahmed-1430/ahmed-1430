@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <img src="https://github.com/ahmed-1430/ahmed-1430/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.jpg" />
 
-<h1 align="center"> Omar Ahmed </h1>
+<h1 align="center">Ahmed </h1>
 <h3 align="center"> Front-End Developer | MERN Stack Developer | Creative Coder | Tech Explorer </h3>
 
 <p align="center">
