@@ -10,42 +10,42 @@
 
 ---
 
-## 🎨 About Me
+## About Me
 
-🌟 Passionate Front-End developer crafting dynamic, responsive, and user-centric apps.  
-🔥 Lover of clean code, modern UI/UX, and scalable architecture.  
-🌱 “Small steps today, greener tomorrow.”  
-💡 Currently exploring **Next.js**.
-
----
-
-## 🛠 Tech Stack & Tools
-
-### 🚀 **Frontend**
-- ⚛️ React.js  
-- 🎨 Tailwind CSS  
-- 🎛 Context API  
-- ⚡ Next.js  
-
-### 🔧 **Backend**
-- 🟢 Node.js  
-- 🧩 Express.js  
-- 🔐 JWT Auth  
-- 🔥 Firebase Auth (optional)
-
-### 🗄 **Database**
-- 🍃 MongoDB  
-- 🧬 Mongoose  
-
-### 🧰 **Tools / Others**
-- 🌀 Git & GitHub  
-- ☁ Vercel / Netlify  
-- 🔗 REST API  
-- ⚙ VS Code  
+ Passionate Front-End developer crafting dynamic, responsive, and user-centric apps.  
+ Lover of clean code, modern UI/UX, and scalable architecture.  
+ “Small steps today, greener tomorrow.”  
+ Currently exploring **Next.js**.
 
 ---
 
-## 📊 GitHub Stats
+##  Tech Stack & Tools
+
+###  **Frontend**
+-  React.js  
+-  Tailwind CSS  
+-  Context API  
+-  Next.js  
+
+###  **Backend**
+-  Node.js  
+-  Express.js  
+-  JWT Auth  
+-  Firebase Auth (optional)
+
+###  **Database**
+-  MongoDB  
+-  Mongoose  
+
+###  **Tools / Others**
+-  Git & GitHub  
+-  Vercel / Netlify  
+-  REST API  
+-  VS Code  
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmed-1430&show_icons=true&theme=tokyonight" />
@@ -58,7 +58,7 @@
 
 ---
 
-## 🟩 GitHub Contribution Graph
+## GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-1430&theme=tokyo-night" />
@@ -66,11 +66,11 @@
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
-📧 **Email:** ahmedtexting@gmail.com  
-🌐 **Portfolio:** your-portfolio-link  
-🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ahmed1430/)  
+ **Email:** ahmedtexting@gmail.com  
+ **Portfolio:** your-portfolio-link  
+ **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ahmed1430/)  
 
 ---
 
