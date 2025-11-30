@@ -34,8 +34,7 @@
 -  Firebase Auth (optional)
 
 ###  **Database**
--  MongoDB  
--  Mongoose  
+-  MongoDB   
 
 ###  **Tools / Others**
 -  Git & GitHub  
