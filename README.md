@@ -68,7 +68,7 @@
 ##  Contact Me
 
  **Email:** ahmedtexting@gmail.com  
- **Portfolio:** your-portfolio-link  
+ **Portfolio:** [Portfolio](https://ahmed-portfolio-sigma-virid.vercel.app/)  
  **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ahmed1430/)  
 
 ---
