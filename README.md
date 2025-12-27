@@ -81,8 +81,3 @@
 
 <p align="center">Feel free to explore, fork, and collaborate!</p>
 
-<!--
-Extra hints if needed:
-- Update portfolio link
-- Add your projects below
--->
