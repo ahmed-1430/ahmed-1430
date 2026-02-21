@@ -41,7 +41,8 @@
 - Node.js  
 - Express.js  
 - JWT Authentication  
-- Firebase Auth (optional)
+- Firebase Auth
+- Custom Auth Logic
 
 ###  Database
 - MongoDB  
@@ -50,7 +51,8 @@
 - Git & GitHub  
 - Vercel / Netlify  
 - REST APIs  
-- VS Code  
+- VS Code
+- PostMan  
 
 ---
 
