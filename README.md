@@ -25,7 +25,7 @@
  Passionate **MERN Stack Developer** crafting dynamic, responsive, and user-centric web applications.  
  Strong focus on **clean UI, modern UX**, and scalable architecture.  
  Love building things from scratch — including my own GitHub analytics engine.  
- Currently exploring **TypeScript**, and performance optimization.
+ Currently exploring **TypeScript**,**Redux** and performance optimization.
 
 ---
 
