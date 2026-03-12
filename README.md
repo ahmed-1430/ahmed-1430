@@ -3,7 +3,7 @@
 
 <h3 align="center">
   MERN Stack Developer | Front-End Developer | Creative Coder | Tech Explorer
-</h3>
+</h3> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com
