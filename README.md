@@ -2,7 +2,7 @@
 <img src="https://github.com/ahmed-1430/ahmed-1430/blob/main/Git_Banner.png" />
 
 <h3 align="center">
-  MERN Stack Developer | Front-End Developer | Creative Coder | Tech Explorer
+  MERN Stack Developer | Creative Coder | Tech Explorer
 </h3> 
 
 <p align="center">
