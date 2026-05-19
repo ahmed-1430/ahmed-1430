@@ -4,10 +4,11 @@
 <h3 align="center">
   MERN Stack Developer | Creative Coder | Tech Explorer
 </h3> 
-
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=520&lines=Hi+there!+I'm+Ahmed;MERN+Stack+Developer;React+%26+Next.js+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
+-->
 
 ---
 
