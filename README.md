@@ -17,7 +17,7 @@
  Passionate **MERN Stack Developer** crafting dynamic, responsive, and user-centric web applications.  
  Strong focus on **clean UI, modern UX**, and scalable architecture.  
  Love building things from scratch — including my own GitHub analytics engine.  
- Currently exploring  and performance optimization.
+ <!--Currently exploring  and performance optimization. -->
 
 ---
 
